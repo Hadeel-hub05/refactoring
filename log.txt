@@ -1,3 +1,4 @@
-46237fa (HEAD -> main, origin/main, origin/HEAD) Task 1.2
+fe36fa3 (HEAD -> main, origin/main, origin/HEAD) Task 2.1
+46237fa Task 1.2
 2f5fa78 Task 1.1
 3ad8925 Initial commit
